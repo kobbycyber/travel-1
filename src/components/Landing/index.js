@@ -27,7 +27,7 @@ class Landing extends React.Component {
             <div className="home">
 
 
-                <div className="home_slider_container" style={{}}>
+                <div className="home_slider_container">
 
                     <div className="owl-carousel owl-theme home_slider">
 
